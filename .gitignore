@@ -12,8 +12,8 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# VSCode settings (optional but common)
+# VSCode settings 
 .vscode/
 
-# macOS Finder files (if someone uses mac)
+# macOS Finder files 
 .DS_Store
